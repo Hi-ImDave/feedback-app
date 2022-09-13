@@ -13,6 +13,8 @@ HTML, CSS, JavaScript, React
   <img src="./public/assets/feedbackUIv1.0.gif" alt="preview of UI being used" />  
 </div>
 
+**Website:**
+https://feedback-app-dsm.netlify.app/
 
 ## Optimizations:
 add edit review functionality
