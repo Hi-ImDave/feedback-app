@@ -1,4 +1,4 @@
-import { motion, Ani, AnimatePresence } from "framer-motion"
+import { motion, AnimatePresence } from "framer-motion"
 import FeedbackItem from "./FeedbackItem"
 import PropTypes from 'prop-types'
 
