@@ -17,9 +17,7 @@ HTML, CSS, JavaScript, React
 https://feedback-app-dsm.netlify.app/
 
 ## Optimizations:
-add edit review functionality
-use context api to get rid of Prop Drilling
-create backend
+I would come back and create a back end using express and mongoDB. 
 
 ## Lessons Learned:
 Learning a lot about component vs global state. Seeing how confusing prop drilling can get. 
